@@ -1,3 +1,14 @@
+# Temur Khamidov
+
+**'Digital Craftsman (Developer/Miniature Painter)'**
+
+I'm a Computer Science student!!!
+
+
+
+
+
+
 - 👋 Hi, I’m @temurk07
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

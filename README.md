@@ -20,6 +20,8 @@ I'm a Computer Science student!!!
 
 <img align="left"  alt= "R Studio" width = '40px' height = '40px' style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
 
+<br />
+
 ### Design Tools 
 
 <img align="left"  alt= "PhotoShop" width = '40px' height = '40px' style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"  />

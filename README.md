@@ -27,7 +27,7 @@ I'm a Computer Science student!!!
 <img align="left"  alt= "PhotoShop" width = '40px' height = '40px' style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"  />
 
 <img align="left"  alt= "Autodesk Maya" width = '40px' height = '40px' style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original-wordmark.svg"  />
-
+<br />
 
 
 - 👋 Hi, I’m @temurk07

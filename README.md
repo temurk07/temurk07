@@ -6,25 +6,25 @@ I'm a Computer Science student!!!
 
 ### Programming Languages and Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width = "100" height = "100" />
+<img align="left"  alt= "Java" width = '40px' height = '40px' style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width = "100" height = "100" />
+<img align="left"  alt= "C" width = '40px' height = '40px' style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width = "100" height = "100" />
+<img align="left"  alt= "GIT" width = '40px' height = '40px' style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"  />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width = "100" height = "100" />
+<img align="left"  alt= "GitHub" width = '40px' height = '40px' style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"  />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width = "100" height = "100" />
+<img align="left"  alt= "MySQL" width = '40px' height = '40px' style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width = "100" height = "100" />
+<img align="left"  alt= "R" width = '40px' height = '40px' style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"  />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width = "100" height = "100"/>
+<img align="left"  alt= "R Studio" width = '40px' height = '40px' style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
 
 ### Design Tools 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+<img align="left"  alt= "PhotoShop" width = '40px' height = '40px' style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"  />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original-wordmark.svg" />
+<img align="left"  alt= "Autodesk Maya" width = '40px' height = '40px' style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original-wordmark.svg"  />
 
 
 

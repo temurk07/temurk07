@@ -1,6 +1,6 @@
 # Temur Khamidov
 
-**'Digital Craftsman (Developer/Miniature Painter)'**
+**'Digital Craftsman'**
 
 I'm a Computer Science student!!!
 
@@ -29,16 +29,6 @@ I'm a Computer Science student!!!
 <img align="left"  alt= "Autodesk Maya" width = '40px' height = '40px' style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original-wordmark.svg"  />
 
 <br />
-
-<br>
-- 👋 Hi, I’m @temurk07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-<br />
-
-
 
 
 <!---
